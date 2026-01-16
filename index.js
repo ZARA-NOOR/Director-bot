@@ -7,7 +7,7 @@ const app = express().use(body_parser.json());
 const my_token = "EAAMHsYa6AHgBQSgmA7LAxlsEN396QoqVmfQSZBu5CgBURwoVboYf4uo9HueqR55vWVdojbX4HaKEBhS2ZBsh5RxbVMDlIyvIqoXcE7xCfjdDOZBi2fsTBxkTyXcHB2PVZByx6LTqVbsNP2ZBxXBiADtZBb8eNOXQWp1DYjrJzoKVztZBHRjKfHgj3nACWp4zAZDZD";
 
 // 🆔 Aapka Phone ID (FIXED)
-const my_phone_id = "937123682817395"; 
+const my_phone_id = "1013014001887709"; 
 
 // 🏠 HOME PAGE (Ye UptimeRobot ko Jawab dega)
 app.get('/', (req, res) => {
