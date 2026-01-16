@@ -4,7 +4,7 @@ const axios = require('axios');
 const app = express().use(body_parser.json());
 
 // 🔑 Aapka Permanent Token (FIXED)
-const my_token = "EAAMHsYa6AHgBQSgmA7LAxlsEN396QoqVmfQSZBu5CgBURwoVboYf4uo9HueqR55vWVdojbX4HaKEBhS2ZBsh5RxbVMDlIyvIqoXcE7xCfjdDOZBi2fsTBxkTyXcHB2PVZByx6LTqVbsNP2ZBxXBiADtZBb8eNOXQWp1DYjrJzoKVztZBHRjKfHgj3nACWp4zAZDZD";
+const my_token = "EAAMHsYa6AHgBQco5w21VpMXJNhcmcKrZAICWoIHIkuCZBQMzn7USZAyUTKuzTMESXdhQtY83finFPXwN9Ue4mqNljwbCA8v80oATWDo9LY1qDQpUyjU5TdSKXFEEJRAAoZBspm47rBT0kShZBBOhyNHfpMG6aTHZBfghjtMpZBZCLTNMbB7uZAWjeZCZAONps4wG0sSNKT36fFauQPCoXT9u2JICdD8fTNh8FsqaTMlkFnTF69c7U0BWRECzbOaU4zAGlN6cT4zmZAYxlU3s4BXZCZCrdVYxMFNPeE7o9ljAZDZD";
 
 // 🆔 Aapka Phone ID (FIXED)
 const my_phone_id = "1013014001887709"; 
